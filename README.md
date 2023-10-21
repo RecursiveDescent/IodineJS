@@ -1,8 +1,13 @@
 # IodineJS
 
-### This is an old JavaScript interpreter I made a couple years ago.
+### This is an old JavaScript interpreter I started a couple years ago.
 ### It was never fully completed and probably has lots of glitches.
+
 ###### Originally it was intended to be the interpreter for a browser engine I was developing from scratch.
+
+###### I started working on it again recently though.
+
+Made with replit, you can run this project online here: https://replit.com/@CSharpIsGud/IodineJS
 
 # Features
 
